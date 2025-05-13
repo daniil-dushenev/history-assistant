@@ -3,6 +3,7 @@
 Примеры работы приложения: 
 ![telegram-cloud-photo-size-2-5251258678491868239-y](https://github.com/user-attachments/assets/c0c129d2-8c1a-494d-93f7-8a5d8c32fff1)
 
+![telegram-cloud-photo-size-2-5251258678491868600-y](https://github.com/user-attachments/assets/f7019cc2-77df-4855-8cdf-676f0d2eb636)
 
 
 Веб-приложение для моделирования альтернативных сценариев развития исторических событий России с использованием ИИ.
